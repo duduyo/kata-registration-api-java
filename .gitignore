@@ -1,0 +1,15 @@
+.idea/
+*.iml
+target/
+
+.classpath
+.project
+bin/
+.settings/
+out/
+.gradle/
+build/
+Supprimerait .gitignore
+Supprimerait README.md
+Supprimerait pom.xml
+Supprimerait src/
